@@ -1,0 +1,25 @@
+---
+title: finance1
+author: Yusuf isa Dural
+date: today
+format:
+  html: 
+    embed-resources: true
+    number-sections: true
+    toc: true
+  pdf:
+    toc: true
+---
+
+```{r}
+print("Hello world!")
+```
+
+
+
+
+
+
+
+
+
